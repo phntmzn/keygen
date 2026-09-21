@@ -1,6 +1,3 @@
-Here’s a README for the C++ project.
-
-
 
 # C++ License Key Generator
 
